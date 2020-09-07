@@ -1,0 +1,13 @@
+body{
+    background-color: #222;
+    color: lime;
+}
+tr:hover{
+    background-color: #555;
+}
+th{
+    text-align: left;
+}
+td{
+    text-align: right;
+}
